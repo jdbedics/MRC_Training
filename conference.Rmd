@@ -1,0 +1,23 @@
+---
+title: "Conference Analyses"
+---
+
+
+### Cleaning and Data Wrangling
+```{r}
+
+```
+
+
+### Visualization
+```{r}
+
+```
+
+
+### Data Modeling
+```{r}
+
+```
+
+
